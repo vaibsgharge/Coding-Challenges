@@ -1,4 +1,4 @@
-# Coding-Challenges
+# REST API Challenge
 
 ## Challenge Details:
 
